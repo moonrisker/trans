@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "pythonw auto.py", 0, False
